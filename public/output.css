@@ -449,6 +449,10 @@ h1{
   font-family: SF Pro Rounded;
 }
 
+ul{
+  font: normal;
+}
+
 
 *, ::before, ::after {
   --tw-border-spacing-x: 0;
